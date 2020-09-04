@@ -1,0 +1,120 @@
+p {
+font-family: 'Lexend Deca', sans-serif;
+}
+h1 {
+    font-family: 'Rye', cursive;
+}
+a {
+    font-family: 'Saira Stencil One', cursive;
+    font-size: 25px;
+}
+body {
+    text-align:center;
+    background-color: teal;
+}
+.game:hover {
+    color: gray; 
+    background-color: white;
+}
+.globalwarm:hover {
+    color: lightcyan; 
+    background-color: lime;
+}
+.mypage:hover {
+    color: white; 
+    background-color: skyblue;
+}
+.whatever:hover {
+    color: gold; 
+    background-color: violet;
+}
+.vote:hover {
+    color: darkorange; 
+    background-color: lightcyan;
+}
+.iphone:hover {
+    color: red; 
+    background-color: skyblue;
+}
+.garbage:hover {
+    color: gray; 
+    background-color: skyblue;
+}
+.classcalories:hover {
+    color: white; 
+    background-color: red;
+}
+.character:hover {
+    color: tan; 
+    background-color: gold;
+}
+.nickelodeon:hover {
+    color: lime; 
+    background-color: cyan;
+}
+.gabrielquiz:hover {
+    color: gray; 
+    background-color: gold;
+}
+.homer:hover {
+    color: white; 
+    background-color: yellow;
+}
+.game {
+    color: black;
+    background-color: white;
+}
+.globalwarm {
+    color: aqua;
+    background-color: green;
+}
+.mypage {
+    color: white;
+    background-color: blue;
+}
+.whatever {
+    color: orange;
+    background-color: darkviolet;
+}
+.vote {
+    color: red;
+    background-color: cyan;
+}
+.iphone {
+    color: darkred;
+    background-color: blue;
+}
+.garbage {
+    color: black;
+    background-color: blue;
+}
+.classcalories {
+    color: white;
+    background-color: maroon;
+}
+.character {
+    color: brown;
+    background-color: orange;
+}
+.nickelodeon {
+    color: green;
+    background-color: skyblue;
+}
+.gabrielquiz {
+    color: black;
+    background-color: orange;
+}
+.homer {
+    color: white;
+    background-color: gold;
+}
+.coolgabriel {
+     width: 300px;
+    display:none;
+    text-align: center;
+}
+button {
+    color: black;
+    border-color: orange;
+    background-color: gold;
+}
